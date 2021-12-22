@@ -1,1 +1,1 @@
-# Curso-Pr-ctico-de-Frontend-Developer
+# Curso-Practico-de-Frontend-Developer
